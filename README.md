@@ -22,5 +22,3 @@
 </div>
 
 ##
-
-![snake animation](https://github.com/anaelsouza)/github-contribution-grid-snake2.svg)
