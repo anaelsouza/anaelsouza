@@ -22,3 +22,5 @@
 </div>
 
 ##
+
+![snake gif](https://github.com/anaelsouza/anaelsouza/blob/output/github-contribution-grid-snake.gif)
