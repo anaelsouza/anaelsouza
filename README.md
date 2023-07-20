@@ -1,4 +1,9 @@
-### Hi, I'm Anael Souza
+###
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Anael+Souza!;&center=true&size=30">
+  </a>
+</h1>
 
 -  Studying Web Development / Information Systems
 -  Pronouns: He
