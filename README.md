@@ -23,4 +23,4 @@
 
 ##
 
-![snake animation](https://github.com/<seu anaelsouza>/<seu anaelsouza>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/anaelsouza/blob/output/github-contribution-grid-snake2.svg)
