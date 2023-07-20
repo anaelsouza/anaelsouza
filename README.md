@@ -5,8 +5,16 @@
   </a>
 </h1>
 
--  Studying Web Development / Information Systems
--  Pronouns: He
+<p align="center">
+  👋 Hi, I'm Anael Souza, Web Developer/Coder 🥷, Learner 👨‍💻 & gamer from CSGO
+  <br>
+  💻 I love to learn new technologies and frameworks.
+  <br>
+  🧑‍💼 Studying Web Development / Information Systems
+  <br>
+  Pronoun: He
+  <br>
+</p>
 
 <div>
   <a href="https://github.com/anaelsouza">
