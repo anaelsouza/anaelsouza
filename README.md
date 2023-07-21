@@ -12,7 +12,7 @@
   <br>
   🧑‍💼 Studying Web Development / Information Systems
   <br>
-  Pronoun: He
+  Pronoun: He/Him
   <br>
 </p>
 
