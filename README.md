@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  👋 Hi, I'm Anael Souza, Web Developer/Coder 🥷, Learner 👨‍💻 & gamer from CSGO
+  👋 Hi, I'm Anael Souza, Web Developer 🥷, Learner 👨‍💻 & gamer from CSGO
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
